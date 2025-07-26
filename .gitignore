@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+*.venv/
+pip-log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Данные и БД
+*.db
+*.sqlite
+*.dump
+
+# Сборки и дистрибутивы
+dist/
+build/
+*.exe
+*.spec
+*.deb
+*.rpm
+
+# PyQt
+ui_*.py  
